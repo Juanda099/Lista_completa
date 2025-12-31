@@ -1,9 +1,95 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="PÃ¡gina-1" id="C4zSKk2swvM3UwL8gUA8">
-    <mxGraphModel dx="1205" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2008" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mDcvf3VfPdnLCK194thM-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=9;fillColor=#f5f5f5;gradientColor=#b3b3b3;" value="" vertex="1">
+          <mxGeometry height="1320" width="1260" x="220" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;í ¼í¼ INTERNET&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="777.3199999999999" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="80" width="159.25" x="762.69" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-13" edge="1" parent="1" source="mDcvf3VfPdnLCK194thM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mDcvf3VfPdnLCK194thM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Upstream DNS:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;â€¢ Quad9 â€“ 9.9.9.9&lt;/div&gt;&lt;div&gt;â€¢ Cloudflare â€“ 1.1.1.1&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="762.6899999999999" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" value="" vertex="1">
+          <mxGeometry height="1120" width="1120" x="282.69" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-15" edge="1" parent="1" source="mDcvf3VfPdnLCK194thM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mDcvf3VfPdnLCK194thM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-8" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server;" value="" vertex="1">
+          <mxGeometry height="56" width="46" x="827" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="" vertex="1">
+          <mxGeometry height="950" width="970" x="365" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-7" parent="1" style="fillColor=#808080;aspect=fixed;sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.openstack.designate_zone;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="822.9999999999999" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-27" edge="1" parent="1" source="mDcvf3VfPdnLCK194thM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mDcvf3VfPdnLCK194thM-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;í ½í»¡ï¸ &lt;b&gt;AdGuard Home&lt;/b&gt;&lt;/div&gt;&lt;div&gt;/opt/AdGuardHome&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;DNS:&lt;/b&gt; : 53 TCP/UDP&lt;/div&gt;&lt;div&gt;&lt;b&gt;Admin&lt;/b&gt;: :8081&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;DNS Rewrites&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;â€¢ speedtest.lan â†’ 192.168.1.24&lt;/div&gt;&lt;div&gt;â€¢ panel.lan â†’ 192.168.1.24&lt;/div&gt;&lt;div&gt;â€¢ sitios-bloqueados â†’ 192.168.1.24&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="310" x="690" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="580" width="910" x="390" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-22" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server_green;" value="" vertex="1">
+          <mxGeometry height="56" width="46" x="827" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-35" edge="1" parent="1" source="mDcvf3VfPdnLCK194thM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mDcvf3VfPdnLCK194thM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;í ½í´€&lt;b&gt; Nginx â€“ Reverse Proxy&lt;/b&gt;&lt;/div&gt;&lt;div&gt;/etc/nginx/conf.d&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Listen:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;â€¢ :80 HTTP&lt;/div&gt;&lt;div&gt;â€¢ :443 HTTPS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Virtual Hosts:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;â€¢ &lt;b&gt;speedtest.lan&lt;/b&gt; â†’ proxy :8082&lt;/div&gt;&lt;div&gt;â€¢ &lt;b&gt;_ (default)&amp;nbsp;&lt;/b&gt; &amp;nbsp;â†’ proxy :8080&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="170" x="757.3199999999999" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;í ½í¶¥ï¸ &lt;b&gt;Servidor CentOS 7&lt;/b&gt;&lt;/div&gt;&lt;div&gt;IP: 192.168.1.24&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="765" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-29" edge="1" parent="1" source="mDcvf3VfPdnLCK194thM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="845" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;HTTP / HTTPS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="122.68" x="783.6600000000001" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="320" width="850" x="417.32" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-31" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server_orange;" value="" vertex="1">
+          <mxGeometry height="56" width="46" x="827" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;í ¼í¼ Apache httpd&lt;/b&gt;&lt;/div&gt;&lt;div&gt;/etc/httpd/conf.d&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="780" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;í ½íº«&lt;b&gt; Bloqueo&lt;/b&gt;&lt;/div&gt;&lt;div&gt;VirtualHost *:8080&lt;/div&gt;&lt;div&gt;/var/www/blockpage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="140" x="570" y="1116" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;âš™ï¸&lt;b&gt; Panel Admin&lt;/b&gt;&lt;/div&gt;&lt;div&gt;VirtualHost *:8088&lt;/div&gt;&lt;div&gt;/var/www/panel&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="140" x="777.3199999999999" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;í ½í³Š &lt;b&gt;LibreSpeed&lt;/b&gt;&lt;/div&gt;&lt;div&gt;VirtualHost *:8082&lt;/div&gt;&lt;div&gt;/var/www/speedtest&lt;/div&gt;&lt;div&gt;PHP 5.4+&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="140" x="990" y="1116" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-42" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Nota:&lt;/h1&gt;&lt;p&gt;SELinux:&lt;/p&gt;&lt;p&gt;Puertos 8080, 8082, 8088 â†’ http_port_t&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="240" x="440" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-44" edge="1" parent="1" source="mDcvf3VfPdnLCK194thM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mDcvf3VfPdnLCK194thM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDcvf3VfPdnLCK194thM-43" edge="1" parent="1" source="mDcvf3VfPdnLCK194thM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mDcvf3VfPdnLCK194thM-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
